@@ -1,0 +1,311 @@
+header{
+    display: flex;
+    
+    flex-direction: column;
+    
+}
+header h3{
+    display: flex;
+    align-items: start;
+}
+header nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 90%;
+    margin: 0 auto;
+    list-style: none;
+}
+header nav ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 40%;
+    
+}
+header nav ul li{
+    
+    list-style: none;
+}
+.log{
+    color: green;
+}
+.sign{
+    background-color: green;
+    color: white;
+    border-radius: 8px;
+    padding: 10px 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.clients{
+    justify-content: center;
+    font-size: 50px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+    margin-left: 500px;
+}
+.we-have{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+    margin-right: 50px;
+}
+.logoss{
+    display: flex;
+    justify-content: space-around;
+}
+.manageee{
+    justify-content: center;
+    font-size: 50px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 20px;
+}
+.nexcenttt{
+    display: flex;
+    justify-content: space-around;
+    
+    margin-left: 100px;
+}
+.flex-div{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.phone-2persons{
+    display: flex;
+    flex: 1;
+    margin-top: 50px;
+}
+.the-unseen{
+    margin-left: 450px;
+    display: flex;
+    margin-bottom: 50px;
+    flex: 1;
+
+}
+
+.learn-m{
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    border-radius: 10px;
+    background-color: green;
+    width: 100px;
+    color: white;
+    margin-left: 50px;
+}
+.helpp{
+    display: flex;
+    justify-content: space-between;
+
+}
+.morxxx{
+    flex: 1;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    
+}
+.kkkky{
+    flex: 1;
+}
+.local{
+    font-size: 25px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 60px;
+}
+.unseen{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+.reinvent{
+    font-size: 25px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    color: green;
+    margin-left: 60px;
+}
+.we-reachedd{
+    margin-left: 60px;
+}
+.div-clzzz{
+ 
+ display: flex;   
+}
+.img-zzzz{
+ flex: 1;
+ display: flex;   
+}
+.gng-lig{
+    display: flex;
+    justify-content: space-between;
+}
+.divss-clxzz{
+ 
+    display: flex;   
+}
+.imgg-zzx{
+    flex: 1;
+    display: flex;   
+}
+.lesson{
+    font-size: 45px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 40px;
+}
+.from-8{
+    font-size: 45px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    color: green;
+    margin-left: 40px;
+}
+.registess{
+    border-radius: 10px;
+    background-color: green;
+    color: white;
+    margin-left: 40px;
+}
+.parag{
+    margin-left: 40px;
+}
+.sitessss{
+    font-size: 45px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+
+}
+.lorex1k{
+ 
+    display: flex;   
+}
+.funnyb{
+    flex: 1;
+    display: flex;   
+}
+.learn-mm{
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    border-radius: 10px;
+    width: 100px;
+    color: green;
+    margin-left: 50px;
+}
+.caring{
+    text-align: center;
+    display: flex;
+    font-size: 45px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+    justify-content: space-around;
+}
+.caringggg{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.general-divvs{
+    display: flex;
+    justify-content: space-around;
+}
+.kkkk{
+    text-align: center;
+    display: flex;
+    font-size: 45px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+    justify-content: space-around;
+}
+.demo{
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    border-radius: 10px;
+    background-color: green;
+    width: 100px;
+    color: white;
+    align-items: center;
+    font-size: 20px;
+    font-weight: 100;
+    justify-content: center;
+    margin-left: 600px;
+    border-radius: 8%;
+}
+.footer-div{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+    border: none;
+    
+}
+.next{
+    font-size: 30px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.all-li li{
+    list-style: none;
+    margin-top: 20px;
+}
+.companny{
+    font-size: 30px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: space-between;
+}
+.suppypp li{
+    list-style: none;
+    margin-top: 20px;
+}
+.supportt{
+    font-size: 30px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: space-between;
+}
+.stayyg{
+    font-size: 30px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: space-between;
+}
+.emailyy{
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    border-radius: 10px;
+    background-color: green;
+    width: 200px;
+    color: white;
+    margin-left: 50px;
+}
